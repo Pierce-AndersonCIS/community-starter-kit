@@ -10,7 +10,7 @@ The bot works by providing a message on a contributor's first issue, pull reques
 
 - Pull requests: Read & Write
 - Issues: Read & Write
-
+this is tufjj
 ## Creating the config
 
 The bot is designed to create messages when a user creates an issue, open a pull request, or merges a pull request. These messages are based on a config file in your repository. You will need to create a config file with the messages you want **welcome** to use. Your `.github/config.yml` should look something like this:
@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+i have to say something here
